@@ -1,5 +1,6 @@
 # Salary_Prediciton_Task
 
+(Remark: if some outputs cells are not visible in the notebook, please refer to the googlecolab link)
 
 Based on a survey data asking professionals about their salaries, we want to build a Supervised ML model that can predict a candidate's salary based on the following features: Gender, Age, Years of Experience, Country and Job Title.
 
